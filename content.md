@@ -9,7 +9,7 @@ Email is the primary mode of communication in most professional settings. It is 
 
 - **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/).
 
-![](./assets/mac-email.png)
+![](assets/mac-email.png)
 
 - **Web Clients**: For student emails we use [outlook.office.com](outlook.office.com), however other common examples include [mail.google.com](mail.google.com) and [mail.yahoo.com](mail.yahoo.com). This is dependent on whichever email service you are using.
 - **Mobile Clients**: Most smartphones come with built-in email apps. You can also download third-party apps like [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480), [Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596), or [Spark](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246).
