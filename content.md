@@ -8,7 +8,7 @@ Email is the primary mode of communication in most professional settings. It is 
 
 ### Choose an Email Client
 
-- **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/).
+- **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/). For DPI, **we recommend using Outlook**.
 
 ![](assets/mac-outlook.png) ![](assets/mac-email.png)
 
