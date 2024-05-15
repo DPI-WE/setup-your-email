@@ -72,14 +72,14 @@ Email is the primary mode of communication in most professional settings. It is 
   - Great! Make sure notifications are enabled and to check frequently.
 - No
   - Please setup your desktop email client
-{: .choose_best #organization title="Setup desktop client" points="1" answer="1"}
+{: .choose_best #desktop title="Setup desktop client" points="1" answer="1"}
 
 - Have you setup your mobile email client with your student email?
 - Yes
   - Great! Make sure notifications are enabled and to check frequently.
 - No
   - Please setup your mobile email client on your phone
-{: .choose_best #organization title="Setup desktop client" points="1" answer="1"}
+{: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
 Send an email from your student account to me or a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
