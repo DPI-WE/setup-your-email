@@ -1,8 +1,8 @@
 # Setup Your Email 📧
-In this lesson, you will learn how to set up and manage your email, a crucial skill in any workplace. Setting up your email on various platforms (phone, computer, web) with notifications enabled will ensure you stay on top of important communications. Checking your email frequently is essential for timely responses and effective communication.
+In this lesson, you will learn how to set up and manage your email, a crucial skill in any workplace. Setting up your email on various platforms (phone, computer, web) with notifications enabled will ensure you stay on top of important communications. 
 
 ## Why Email Management is Important
-Email is the primary mode of communication in most professional settings. It is used for sharing information, coordinating tasks, and maintaining records of interactions. Proper email management can enhance your productivity, ensure you don't miss important messages, and help you maintain a professional image.
+Email is the primary mode of communication in most professional settings. It is used for sharing information, coordinating tasks, and maintaining records of interactions. Checking your email frequently is essential for timely responses and effective communication. Proper email management can enhance your productivity, ensure you don't miss important messages, and help you maintain a professional image.
 
 ## Steps to Set Up Your Email
 
@@ -10,20 +10,21 @@ Email is the primary mode of communication in most professional settings. It is 
 
 - **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/).
 
-![](assets/mac-email.png)
+![](assets/mac-outlook.png) ![](assets/mac-email.png)
 
-- **Web Clients**: For student emails we use [outlook.office.com](outlook.office.com), however other common examples include [mail.google.com](mail.google.com) and [mail.yahoo.com](mail.yahoo.com). This is dependent on whichever email service you are using.
+- **Web Clients**: For student emails we use [webmail.illinois.edu](https://webmail.illinois.edu), however other common examples include [outlook.office.com](outlook.office.com), [mail.google.com](mail.google.com) and [mail.yahoo.com](mail.yahoo.com). This is dependent on whichever email service you are using.
 - **Mobile Clients**: Most smartphones come with built-in email apps. You can also download third-party apps like [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480), [Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596), or [Spark](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246).
 
 
 ### Add Your Email Account
-- Open your chosen email client.
+- Open your chosen email client. While enrolled with DPI, we recommend using Outlook.
 - Navigate to the account setup section (usually found in settings or preferences).
-- Enter your email address and password.
+- Enter your email address and password. For DPI emails, this will be your NetID followed by `@illinois.edu`.
 - Follow the on-screen instructions to complete the setup.
 
 ### Configure Notifications
 - Ensure notifications are enabled for new emails.
+  - For Outlook on MacOS, you may need to allow notifications: go to `System Settings` > `Notifications` > `Microsoft Outlook` and toggle `Allow notifications`.
 - Customize notification settings to avoid unnecessary distractions (e.g., only notify for important emails).
 
 ### Organize Your Inbox
@@ -79,4 +80,4 @@ Email is the primary mode of communication in most professional settings. It is 
 {: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
-Send an email from your student account to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
+Send an email from your `@illinois.edu` account to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
