@@ -56,7 +56,9 @@ Email is the primary mode of communication in most professional settings. It is 
   - Correct! Notifications help you stay informed about new messages.
 - Use only one email client.
   - Not correct. Using multiple clients can enhance accessibility.
-{: .choose_best #notifications title="Email Notifications" points="1" answer="2"}
+- Check your email every morning.
+  - Correct! Checking your email is a great way to start the day.
+{: .choose_all #notifications title="Email Notifications" points="1" answer="[2,4]"}
 
 - Organizing your inbox with folders and labels can help keep your email more manageable.
 - True
