@@ -82,4 +82,4 @@ Email is the primary mode of communication in most professional settings. It is 
 {: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
-Send an email from your student account to me or a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
+Send an email from your student account to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
