@@ -5,7 +5,8 @@ In this lesson, you will learn how to set up and manage your email, a crucial sk
 Email is the primary mode of communication in most professional settings. It is used for sharing information, coordinating tasks, and maintaining records of interactions. Proper email management can enhance your productivity, ensure you don't miss important messages, and help you maintain a professional image.
 
 ## Steps to Set Up Your Email
-### Choose an Email Client:
+
+### Choose an Email Client
 
 - **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/).
 
@@ -15,26 +16,22 @@ Email is the primary mode of communication in most professional settings. It is 
 - **Mobile Clients**: Most smartphones come with built-in email apps. You can also download third-party apps like [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480), [Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596), or [Spark](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246).
 
 
-### Add Your Email Account:
+### Add Your Email Account
+- Open your chosen email client.
+- Navigate to the account setup section (usually found in settings or preferences).
+- Enter your email address and password.
+- Follow the on-screen instructions to complete the setup.
 
-1. Open your chosen email client.
-2. Navigate to the account setup section (usually found in settings or preferences).
-3. Enter your email address and password.
-4. Follow the on-screen instructions to complete the setup.
-
-### Configure Notifications:
-
+### Configure Notifications
 - Ensure notifications are enabled for new emails.
 - Customize notification settings to avoid unnecessary distractions (e.g., only notify for important emails).
 
-### Organize Your Inbox:
-
+### Organize Your Inbox
 - Use folders or labels to categorize emails.
 - Set up filters or rules to automatically sort incoming mail.
 - Archive or delete emails you no longer need to keep your inbox tidy.
 
-### Check Your Email Frequently:
-
+### Check Your Email Frequently
 - Set specific times during the day to check and respond to emails.
 - Enable push notifications on your phone for immediate alerts.
 
