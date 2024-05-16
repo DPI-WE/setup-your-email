@@ -1,12 +1,14 @@
-# Setup Your Email 📧
-In this lesson, you will learn how to set up and manage your email, a crucial skill in any workplace. Setting up your email on various platforms (phone, computer, web) with notifications enabled will ensure you stay on top of important communications. 
+# Emails: setup and tips 📧
+In this lesson, you will learn how to set up, manage, and write emails effectively. This includes setting up your email on different platforms with notifications enabled to stay on top of important communications.
 
-## Why Email Management is Important
-Email is the primary mode of communication in most professional settings. It is used for sharing information, coordinating tasks, and maintaining records of interactions. Checking your email frequently is essential for timely responses and effective communication. Proper email management can enhance your productivity, ensure you don't miss important messages, and help you maintain a professional image.
+## Email Management
 
-## Steps to Set Up Your Email
+### Why Email Management is Important
+Email is crucial for professional communication. Checking it frequently is essential for timely responses and effective communication. Proper email management enhances productivity, prevents missing important messages, and maintains a professional image.
 
-### Choose an Email Client
+### Set Up Your Email
+
+#### Choose an Email Client
 
 - **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/). For DPI, **we recommend using Outlook**.
 
@@ -16,25 +18,118 @@ Email is the primary mode of communication in most professional settings. It is 
 - **Mobile Clients**: Most smartphones come with built-in email apps. You can also download third-party apps like [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480), [Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596), or [Spark](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246).
 
 
-### Add Your Email Account
-- Open your chosen email client. While enrolled with DPI, we recommend using Outlook.
+#### Add Your Email Account
 - Navigate to the account setup section (usually found in settings or preferences).
-- Enter your email address and password. For DPI emails, this will be your NetID followed by `@illinois.edu`.
+- Enter your email address and password. For DPI, this will be your NetID followed by `@illinois.edu`.
 - Follow the on-screen instructions to complete the setup.
 
-### Configure Notifications
+#### Configure Notifications
 - Ensure notifications are enabled for new emails.
   - For Outlook on MacOS, you may need to allow notifications: go to `System Settings` > `Notifications` > `Microsoft Outlook` and toggle `Allow notifications`.
 - Customize notification settings to avoid unnecessary distractions (e.g., only notify for important emails).
 
-### Organize Your Inbox
+#### Organize Your Inbox
 - Use folders or labels to categorize emails.
 - Set up filters or rules to automatically sort incoming mail.
 - Archive or delete emails you no longer need to keep your inbox tidy.
 
-### Check Your Email Frequently
+#### Check Your Email Frequently
 - Set specific times during the day to check and respond to emails.
 - Enable push notifications on your phone for immediate alerts.
+
+#### Out of Office Automatic Replies
+- Set up automatic replies when you are away from work. In the toolbar, navigate to `Tools` > `Automatic Replies...`.
+![](assets/out-of-office-automatic-replies-toolbar.png)
+- Choose `Send automatic replies`, write your automatic message and set the start and end times. Make sure your message includes a greeting, the date you will be out of office, and the person to contact instead.
+![](assets/out-of-office-automatic-replies-setting.png)
+- If you work with people outside of your organization, make sure to tick the box for `Send replies outside my organization`. You will need to copy/paste your automatic message.
+
+## Writing Effective Emails
+
+### Sending an Email
+- In Outlook, click on `New Message` to compose a new message.
+![](assets/new-message-create.png)
+- Fill in the recipient's email address in the `To` field. You can fill in the `Cc` (carbon copy) field for people who need to be informed but are not the primary recipient, and the `Bcc` (blind carbon copy) field for recipients who should receive the email but remain hidden from others. `Bcc` is also useful for sending mass emails without revealing recipients' email addresses.
+![](assets/new-message-body.png)
+- Write a descriptive subject line that summarizes the email's content. Write a clear and concise message in the body of the email. Remember to sign off with a professional closing.
+- If you have any attachment, click on the paperclip icon to attach files.
+![](assets/new-message-attachment.png)
+- Once you are ready, press `Send` to send the email.
+
+### Tips for Writing Effective Emails
+
+- General Tone and Style
+  - Keep your tone professional.
+  - Consider your email's tone.
+  - Be careful with humor.
+  - Resist emojis in email.
+- Subject Line and Content
+  - Avoid vague subject lines – keep subject lines descriptive and short.
+  - Introduce yourself.
+  - Structure the email properly.
+  - Call out attachments.
+- Grammar and Punctuation
+  - Use proper email punctuation.
+  - Practice good grammar.
+  - Use sentence case.
+- Formatting and Appearance
+  - Always use standard fonts and formatting.
+  - Perfect your email signature.
+  - Don't add that 'Sent from my phone' caveat.
+  - Shorten your URLs.
+- Salutations and Sign-offs
+  - Choose your email salutation carefully.
+  - Leave the right impression with your email sign-off.
+- Recipient and Replies
+  - Triple-check your recipient's name.
+  - Fill out your email fields properly.
+  - Use Bcc appropriately.
+  - Use 'Reply all' sparingly.
+  - Think before forwarding.
+  - Respond in a timely manner.
+  - Set informative out-of-office replies.
+- Follow-up and Responsiveness
+  - Reply to all your emails.
+
+### Example Emails
+
+#### Bad Example
+
+> Howdy Morgan,
+>
+> My name is Haneen and I started at DPI last week. Are you free this afternoon to meet? I would love to get to know the team better! ❤️
+>
+> See ya!
+>
+> Haneen
+
+#### Good Example
+
+> Hello Morgan,
+>
+> My name is Haneen Omar and I am the new Business Intelligence Specialist with the Corporate Partnerships team here at DPI. I’m so excited to be part of the team! I would love to set up a quick 1:1 meeting to get to know you and share a bit about myself. 
+> Thank you and I look forward to meeting! 
+>
+> Kind regards, 
+>
+> Haneen Omar
+
+#### Better Example
+
+> Hello Morgan,
+>
+> My name is Haneen Omar and I am the new Business Intelligence Specialist with the Corporate Partnerships team here at DPI. I’m so excited to be part of the team! I would love to set up a quick 1:1 meeting to get to know you and share a bit about myself. 
+>
+> Please let me know if any of the following days and times work for you:
+> - Friday, September 29th: 1pm-1:30pm
+> - Monday, October 2nd: 10am-10:30am; 1pm-1:30pm
+>
+> Thank you and I look forward to meeting! 
+>
+> Kind regards, 
+>
+> Haneen Omar
+
 
 ## Quiz
 
