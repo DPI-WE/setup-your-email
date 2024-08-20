@@ -175,4 +175,4 @@ Email is crucial for professional communication. Checking it frequently is essen
 {: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
-Send an email from your `@illinois.edu` account to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
+Send an email (from your `@illinois.edu` account if you have one) to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
