@@ -1,5 +1,5 @@
-# Emails: setup and writing tips 📧
-In this lesson, you will learn how to set up, manage, and write emails effectively. This includes setting up your email on different platforms with notifications enabled to stay on top of important communications.
+# Email: setup and writing tips 📧
+In this lesson, you will learn how to set up, manage, and write email effectively. This includes setting up your email on different platforms with notifications enabled to stay on top of important communications.
 
 ## Email Management
 
