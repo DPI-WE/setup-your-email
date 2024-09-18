@@ -10,17 +10,17 @@ Email is crucial for professional communication. Checking it frequently is essen
 
 #### Choose an Email Client
 
-- **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/). For DPI, **we recommend using Outlook**.
+- **Desktop Clients**: Examples include [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098), and [Thunderbird](https://www.thunderbird.net/en-US/).
 
 ![](assets/mac-outlook.png) ![](assets/mac-email.png)
 
-- **Web Clients**: For student emails we use [webmail.illinois.edu](https://webmail.illinois.edu), however other common examples include [outlook.office.com](outlook.office.com), [mail.google.com](mail.google.com) and [mail.yahoo.com](mail.yahoo.com). This is dependent on whichever email service you are using.
+- **Web Clients**: Common examples include [outlook.office.com](outlook.office.com), [mail.google.com](mail.google.com) and [mail.yahoo.com](mail.yahoo.com). This is dependent on whichever email service you are using.
 - **Mobile Clients**: Most smartphones come with built-in email apps. You can also download third-party apps like [Gmail](https://apps.apple.com/us/app/gmail-email-by-google/id422689480), [Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596), or [Spark](https://apps.apple.com/us/app/spark-mail-ai-email-inbox/id997102246).
 
 
 #### Add Your Email Account
 - Navigate to the account setup section (usually found in settings or preferences).
-- Enter your email address and password. For DPI, this will be your NetID followed by `@illinois.edu`.
+- Enter your email address and password.
 - Follow the on-screen instructions to complete the setup.
 
 #### Configure Notifications
@@ -175,4 +175,4 @@ Email is crucial for professional communication. Checking it frequently is essen
 {: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
-Send an email (from your `@illinois.edu` account if you have one) to a TA with the subject line: "Setup my email". This will confirm that you have successfully set up your email client.
+Send an email to a TA with the subject line: "Set up my email". This will confirm that you have successfully set up your email client.
