@@ -1,4 +1,4 @@
-# Setup your email 📧
+# Set up your email 📧
 In this lesson, you will learn how to set up, manage, and write email effectively. This includes setting up your email on different platforms with notifications enabled to stay on top of important communications.
 
 ## Email Management
@@ -67,7 +67,7 @@ Email is crucial for professional communication. Checking it frequently is essen
   - Avoid vague subject lines – keep subject lines descriptive and short.
   - Introduce yourself.
   - Structure the email properly.
-  - Call out attachments.
+  - Directly mention any attachments in the email body.
 - Grammar and Punctuation
   - Use proper email punctuation.
   - Practice good grammar.
@@ -76,7 +76,7 @@ Email is crucial for professional communication. Checking it frequently is essen
   - Always use standard fonts and formatting.
   - Perfect your email signature.
   - Don't add that 'Sent from my phone' caveat.
-  - Shorten your URLs.
+  - Shorten your URLs by hyperlinking text, [like this](https://www.llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/).
 - Salutations and Sign-offs
   - Choose your email salutation carefully.
   - Leave the right impression with your email sign-off.
@@ -175,4 +175,5 @@ Email is crucial for professional communication. Checking it frequently is essen
 {: .choose_best #mobile title="Setup mobile client" points="1" answer="1"}
 
 ## Follow Up Assignment
+
 Send an email to a TA with the subject line: "Set up my email". This will confirm that you have successfully set up your email client.
